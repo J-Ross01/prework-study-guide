@@ -1,0 +1,5 @@
+Host*
+	IgnoreUnkown UseKeychain
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentifyFile ~/.SSH/id_ed25519
